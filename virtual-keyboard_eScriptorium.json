@@ -1,0 +1,86 @@
+{
+    "version": "0.1",
+    "name": "ZfN_030125_v1",
+    "author": "",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "ſ",
+            "keyboard_code": 35
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "⸗",
+            "keyboard_code": 42
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "-",
+            "keyboard_code": 45
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "Th."
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "„"
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "‚"
+        },
+      {
+            "row": 0,
+            "column": 6,
+            "character": "—"
+        },
+        {
+            "row": 0,
+            "column": 7,
+            "character": "ꝛc"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "½"
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "⅓"
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "¼"
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "¾"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "“"
+        },
+      { 
+            "row": 1,
+            "column": 5,
+            "character": "‘"
+        },
+        {
+            "row": 1,
+            "column": 6,
+            "character": "’",
+            "keyboard_code": 39
+        }
+    ]
+}
