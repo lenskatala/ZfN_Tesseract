@@ -1,6 +1,6 @@
 {
     "version": "0.1",
-    "name": "ZfN_030125_v1",
+    "name": "ZfN_030125",
     "author": "",
     "characters": [
         {
@@ -81,6 +81,11 @@
             "column": 6,
             "character": "’",
             "keyboard_code": 39
+        },
+        {
+            "row": 1,
+            "column": 7,
+            "character": "*"
         }
     ]
 }
